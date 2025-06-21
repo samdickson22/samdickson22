@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![snake gif](https://github.com/sammydick22/sammydick22/blob/output/github-snake-dark.svg)
 ![snake gif](https://github.com/samdickson22/samdickson22/blob/output/github-snake-dark.svg)
 
 <!--
