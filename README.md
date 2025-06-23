@@ -31,5 +31,6 @@
 
 <!-- Snake Animation -->
 <div align="center">
+  
   ![snake gif](https://github.com/samdickson22/samdickson22/blob/output/github-snake-dark.svg)
 </div>
