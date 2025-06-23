@@ -31,10 +31,5 @@
 
 <!-- Snake Animation -->
 <div align="center">
-    
-  ## Personal
-  ![snake gif](https://github.com/sammydick22/sammydick22/blob/output/github-snake-dark.svg)
-  
-  ## Professional
   ![snake gif](https://github.com/samdickson22/samdickson22/blob/output/github-snake-dark.svg)
 </div>
